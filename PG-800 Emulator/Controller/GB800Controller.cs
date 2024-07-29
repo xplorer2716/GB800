@@ -1,5 +1,5 @@
 /*
-Xplorer - A real-time editor for the Oberheim Xpander and Matrix-12 synths
+GB 800 - A midi app to edit the Roland Super JX-10 tones (kind of PG-800 emulator), without requiring memory cartridge.
 Copyright (C) 2012-2024 Pascal Schmitt
 
 This program is free software: you can redistribute it and/or modify

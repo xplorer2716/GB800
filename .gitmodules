@@ -1,0 +1,3 @@
+[submodule "MidiApp"]
+	path = MidiApp
+	url = https://github.com/xplorer2716/MidiApp

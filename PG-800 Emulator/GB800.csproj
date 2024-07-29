@@ -69,7 +69,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Sanford.Multimedia">
-      <HintPath>..\..\Common\3rdParty\Sanford.Multimedia.Midi\Sanford.Multimedia.dll</HintPath>
+      <HintPath>..\..\MidiApp\3rdParty\Sanford.Multimedia.Midi\Sanford.Multimedia.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
@@ -214,15 +214,15 @@
     <None Include="xdata\images\enveloppes.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Common\3rdParty\Sanford.Multimedia.Midi\Sanford.Multimedia.Midi.csproj">
-      <Project>{4269C72A-8D3A-4737-8F89-72EAA33EA9E1}</Project>
+    <ProjectReference Include="..\MidiApp\3rdParty\Sanford.Multimedia.Midi\Sanford.Multimedia.Midi.csproj">
+      <Project>{4269c72a-8d3a-4737-8f89-72eaa33ea9e1}</Project>
       <Name>Sanford.Multimedia.Midi</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\Common\MidiApp\MidiApp.MidiController\MidiApp.MidiController.csproj">
+    <ProjectReference Include="..\MidiApp\MidiApp\MidiApp.MidiController\MidiApp.MidiController.csproj">
       <Project>{548013ec-38c7-43bd-bad9-c4019ae5122e}</Project>
       <Name>MidiApp.MidiController</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\Common\MidiApp\MidiApp.UIControls\MidiApp.UIControls.csproj">
+    <ProjectReference Include="..\MidiApp\MidiApp\MidiApp.UIControls\MidiApp.UIControls.csproj">
       <Project>{081a13b7-1afa-41ba-9125-38d804ef0e71}</Project>
       <Name>MidiApp.UIControls</Name>
     </ProjectReference>
