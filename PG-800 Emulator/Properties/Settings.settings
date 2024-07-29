@@ -1,0 +1,70 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MidiApp.GB800.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SynthOutputDeviceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AutomationInputDeviceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SysexTransmitDelay" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="AutomationTable" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;DCO1 Range;128&lt;/string&gt;
+  &lt;string&gt;DCO1 Wave;128&lt;/string&gt;
+  &lt;string&gt;DCO1 Tune;128&lt;/string&gt;
+  &lt;string&gt;DCO1 LFO;128&lt;/string&gt;
+  &lt;string&gt;DCO1 Env;128&lt;/string&gt;
+  &lt;string&gt;DCO2 Range;128&lt;/string&gt;
+  &lt;string&gt;DCO2 Wave;128&lt;/string&gt;
+  &lt;string&gt;DCO XMOD;128&lt;/string&gt;
+  &lt;string&gt;DCO2 Tune;128&lt;/string&gt;
+  &lt;string&gt;DCO2 Fine Tune;128&lt;/string&gt;
+  &lt;string&gt;DCO2 LFO;128&lt;/string&gt;
+  &lt;string&gt;DCO2 Env;128&lt;/string&gt;
+  &lt;string&gt;DCO Dynamics;128&lt;/string&gt;
+  &lt;string&gt;DCO Env Mode;128&lt;/string&gt;
+  &lt;string&gt;Mixer DCO1 Level;128&lt;/string&gt;
+  &lt;string&gt;Mixer DCO2 Level;128&lt;/string&gt;
+  &lt;string&gt;Mixer Env;128&lt;/string&gt;
+  &lt;string&gt;Mixer Dynamics;128&lt;/string&gt;
+  &lt;string&gt;Mixer Env Mode;128&lt;/string&gt;
+  &lt;string&gt;VCF HPF;128&lt;/string&gt;
+  &lt;string&gt;VCF Freq;128&lt;/string&gt;
+  &lt;string&gt;VCF Q;128&lt;/string&gt;
+  &lt;string&gt;VCF LFO;128&lt;/string&gt;
+  &lt;string&gt;VCF Env;128&lt;/string&gt;
+  &lt;string&gt;VCF Key;128&lt;/string&gt;
+  &lt;string&gt;VCF Dynamics;128&lt;/string&gt;
+  &lt;string&gt;VCF Env Mode;128&lt;/string&gt;
+  &lt;string&gt;VCA Level;128&lt;/string&gt;
+  &lt;string&gt;VCA Dynamics;128&lt;/string&gt;
+  &lt;string&gt;VCA Chorus;128&lt;/string&gt;
+  &lt;string&gt;LFO Wave;128&lt;/string&gt;
+  &lt;string&gt;LFO Delay;128&lt;/string&gt;
+  &lt;string&gt;LFO Rate;128&lt;/string&gt;
+  &lt;string&gt;EG1 Attack;128&lt;/string&gt;
+  &lt;string&gt;EG1 Decay;128&lt;/string&gt;
+  &lt;string&gt;EG1 Sustain;128&lt;/string&gt;
+  &lt;string&gt;EG1 Release;128&lt;/string&gt;
+  &lt;string&gt;EG1 Key;128&lt;/string&gt;
+  &lt;string&gt;EG2 Attack;128&lt;/string&gt;
+  &lt;string&gt;EG2 Decay;128&lt;/string&gt;
+  &lt;string&gt;EG2 Sustain;128&lt;/string&gt;
+  &lt;string&gt;EG2 Release;128&lt;/string&gt;
+  &lt;string&gt;EG2 Key;128&lt;/string&gt;
+  &lt;string&gt;VCA Env Mode;128&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="SynthetizerTypeIsJX10" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MIDIChannel" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

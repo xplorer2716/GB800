@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Généré par Microsoft Visio 11.0, SVG Export, v1.0 Diagramme.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in"
+		height="8.26772in" viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st15">
+	<v:documentProperties v:langID="1036" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#34383e;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {marker-end:url(#mrkr4-8);stroke:#fb5352;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.16}
+		.st3 {fill:#fb5352;fill-opacity:1;stroke:#fb5352;stroke-opacity:1;stroke-width:0.46153846153846}
+		.st4 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st5 {fill:#fb5352;font-family:Arial;font-size:0.666664em}
+		.st6 {marker-end:url(#mrkr4-22);stroke:#f9bd29;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.16}
+		.st7 {fill:#f9bd29;fill-opacity:1;stroke:#f9bd29;stroke-opacity:1;stroke-width:0.46153846153846}
+		.st8 {fill:#f9bd29;font-family:Arial;font-size:0.666664em}
+		.st9 {fill:#2994f8;font-family:Arial;font-size:0.666664em;font-weight:bold}
+		.st10 {marker-end:url(#mrkr4-40);stroke:#2994f8;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.16}
+		.st11 {fill:#2994f8;fill-opacity:1;stroke:#2994f8;stroke-opacity:1;stroke-width:0.46153846153846}
+		.st12 {fill:#dde2cd;fill-opacity:0;stroke:#f9bd29;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.16}
+		.st13 {fill:#f9bd29;font-family:Arial;font-size:0.833336em;font-weight:bold}
+		.st14 {fill:#dde2cd;fill-opacity:0;stroke:#2994f8;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.16}
+		.st15 {fill:none;fill-rule:evenodd;font-size:12;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-8" class="st3" v:arrowType="4" v:arrowSize="2" v:setback="4.33333" refX="-4.3333333333333" orient="auto"
+				markerUnits="strokeWidth">
+			<use xlink:href="#lend4" transform="scale(-2.1666666666667,-2.1666666666667) "/>
+		</marker>
+		<marker id="mrkr4-22" class="st7" v:arrowType="4" v:arrowSize="2" v:setback="4.33333" refX="-4.3333333333333" orient="auto"
+				markerUnits="strokeWidth">
+			<use xlink:href="#lend4" transform="scale(-2.1666666666667,-2.1666666666667) "/>
+		</marker>
+		<marker id="mrkr4-40" class="st11" v:arrowType="4" v:arrowSize="2" v:setback="4.33333" refX="-4.3333333333333"
+				orient="auto" markerUnits="strokeWidth">
+			<use xlink:href="#lend4" transform="scale(-2.1666666666667,-2.1666666666667) "/>
+		</marker>
+	</defs>
+	<g v:mID="4" v:index="1" v:groupContext="backgroundPage">
+		<title>Page arriere plan</title>
+		<v:pageProperties width="11.6929" height="8.26772" v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24"
+				v:shadowOffsetX="8.50394" v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape">
+			<title>Feuille.1</title>
+			<rect x="0" y="0" width="841.89" height="595.276" class="st1"/>
+		</g>
+	</g>
+	<g v:mID="0" v:index="2" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="SchemeName" v:val="VT4(Default)"/>
+		</v:userDefs>
+		<title>Page-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="test" v:index="0" color="#000000"/>
+		<v:layer v:name="Lien" v:index="1"/>
+		<g id="shape4-3" v:mID="4" v:groupContext="shape" transform="translate(181.417,-549.921)">
+			<title>Feuille.4</title>
+			<path d="M0 595.28 L64.34 595.28" class="st2"/>
+		</g>
+		<g id="shape5-9" v:mID="5" v:groupContext="shape" transform="translate(180.441,-548.094)">
+			<title>Feuille.5</title>
+			<desc>automation CC#</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="34.5039" cy="587.276" width="69.01" height="16"/>
+			<rect x="0" y="579.276" width="69.0079" height="16" class="st4"/>
+			<text x="5.6" y="589.68" class="st5" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>automation CC#</text>		</g>
+		<g id="shape6-12" v:mID="6" v:groupContext="shape" transform="translate(308.976,-549.921)">
+			<title>Feuille.6</title>
+			<path d="M0 595.28 L47.33 595.28" class="st2"/>
+		</g>
+		<g id="shape8-17" v:mID="8" v:groupContext="shape" v:layerMember="1" transform="translate(174.331,-535.748)">
+			<title>Dynamic connector</title>
+			<path d="M0 588.19 L0 606.61 A5.66929 5.66929 -180 0 0 5.67 612.28 L192.76 612.28 A5.66929 5.66929 -180 0 0 198.43 606.61
+						 L198.43 597.55" class="st6"/>
+		</g>
+		<g id="shape9-23" v:mID="9" v:groupContext="shape" transform="translate(178.583,-516.913)">
+			<title>Feuille.9</title>
+			<desc>all other MIDI messages</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="48.189" cy="587.276" width="96.38" height="16"/>
+			<rect x="0" y="579.276" width="96.378" height="16" class="st4"/>
+			<text x="5.07" y="589.68" class="st8" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>all other MIDI messages</text>		</g>
+		<g id="shape10-26" v:mID="10" v:groupContext="shape" transform="translate(308,-548.094)">
+			<title>Feuille.10</title>
+			<desc>tone SysEx</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="26" cy="587.276" width="52.01" height="16"/>
+			<rect x="0" y="579.276" width="52" height="16" class="st4"/>
+			<text x="5.77" y="589.68" class="st5" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>tone SysEx</text>		</g>
+		<g id="shape11-29" v:mID="11" v:groupContext="shape" transform="translate(154,-553.764)">
+			<title>Feuille.11</title>
+			<desc>IN</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.3307" cy="587.276" width="40.67" height="16"/>
+			<rect x="0" y="579.276" width="40.6614" height="16" class="st4"/>
+			<text x="16.33" y="589.68" class="st9" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>IN</text>		</g>
+		<g id="shape12-32" v:mID="12" v:groupContext="shape" transform="translate(357.165,-553.764)">
+			<title>Feuille.12</title>
+			<desc>OUT</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.6614" cy="587.276" width="29.33" height="16"/>
+			<rect x="0" y="579.276" width="29.3228" height="16" class="st4"/>
+			<text x="6.21" y="589.68" class="st9" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>OUT</text>		</g>
+		<g id="shape13-35" v:mID="13" v:groupContext="shape" transform="translate(379.843,-549.921)">
+			<title>Feuille.13</title>
+			<path d="M0 595.28 L7.65 595.28" class="st10"/>
+		</g>
+		<g id="shape14-41" v:mID="14" v:groupContext="shape" transform="translate(150.236,-549.921)">
+			<title>Feuille.14</title>
+			<path d="M0 595.28 L7.65 595.28" class="st10"/>
+		</g>
+		<g id="shape1-46" v:mID="1" v:groupContext="shape" transform="translate(255.118,-532.913)">
+			<title>Feuille.1</title>
+			<desc>GB - 800</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="26.9291" cy="579.118" width="53.86" height="32.315"/>
+			<rect x="0" y="562.961" width="53.8583" height="32.315" rx="5.66929" ry="5.66929" class="st12"/>
+			<text x="6.64" y="582.12" class="st13" v:langID="1036"><v:paragraph v:horizAlign="1"/><v:tabList/>GB - 800</text>		</g>
+		<g id="shape3-49" v:mID="3" v:groupContext="shape" transform="translate(167.244,-542.835)">
+			<title>Circle</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+			</v:userDefs>
+			<path d="M0 588.19 A7.08661 7.08661 0 1 1 14.17 588.19 A7.08661 7.08661 0 0 1 0 588.19 Z" class="st14"/>
+		</g>
+		<g id="shape7-51" v:mID="7" v:groupContext="shape" transform="translate(365.669,-542.835)">
+			<title>Circle.7</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+			</v:userDefs>
+			<path d="M0 588.19 A7.08661 7.08661 0 1 1 14.17 588.19 A7.08661 7.08661 0 0 1 0 588.19 Z" class="st14"/>
+		</g>
+	</g>
+</svg>
