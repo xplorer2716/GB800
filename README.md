@@ -3,4 +3,4 @@ A midi app to edit the Roland Super JX-10 tones (kind of PG-800 emulator), witho
 
 ![](https://github.com/xplorer2716/GB800/blob/main/Proto%20UI.jpg)
 
-Salvaged source code. Will compile but not run.
+**Salvaged source code. Will compile but not run.**
